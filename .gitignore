@@ -37,3 +37,7 @@ lerna-debug.log*
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Test Output
+playwright-report
+test-results
