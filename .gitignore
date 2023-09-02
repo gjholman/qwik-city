@@ -41,3 +41,6 @@ lerna-debug.log*
 # Test Output
 playwright-report
 test-results
+
+# Netlify
+.netlify
