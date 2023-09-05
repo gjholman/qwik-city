@@ -16,7 +16,9 @@ export default component$(() => {
       {/* This is where header and footer go in the future */}
 
       <main>
+        <header>Normal ass header</header>
         <Slot />
+        <footer>Normal ass footer</footer>
       </main>
     </>
   );
